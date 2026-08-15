@@ -87,7 +87,7 @@ In **8 color** and **4 color** terminals, they might lack the necessary variatio
 
 |    | Light Theme                                                  |  8-bit | 24-bit  | Dark Theme                                                   |  8-bit | 24-bit  |
 |--- | -----                                                        | -------|---------| -----                                                        | -------|---------|
-| 0  | <img src="readme-assets/eeeeee.PNG" alt="Description" width="50" height="50"> <img src="https://www.colorhexa.com/eeeeee.png" alt="Description" width="50" height="50"> |  255   | #eeeeee | <img src="readme-assets/1c1c1c.PNG" alt="Description" width="50" height="50"> |  234   | #1c1c1c |
+| 0  | <img src="readme-assets/eeeeee.PNG" alt="Description" width="50" height="50"> |  255   | #eeeeee | <img src="readme-assets/1c1c1c.PNG" alt="Description" width="50" height="50"> |  234   | #1c1c1c |
 | 1  | <img src="readme-assets/af0000.PNG" alt="Description" width="50" height="50"> |  124   | #af0000 | <img src="readme-assets/af005f.PNG" alt="Description" width="50" height="50"> |  125   | #af005f |
 | 2  | <img src="readme-assets/008700.PNG" alt="Description" width="50" height="50"> |  28    | #008700 | <img src="readme-assets/5faf00.PNG" alt="Description" width="50" height="50"> |  70    | #5faf00 |
 | 3  | <img src="readme-assets/5f8700.PNG" alt="Description" width="50" height="50"> |  64    | #5f8700 | <img src="readme-assets/d7af5f.PNG" alt="Description" width="50" height="50"> |  179   | #d7af5f |
