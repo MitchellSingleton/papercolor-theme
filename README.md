@@ -87,7 +87,7 @@ In **8 color** and **4 color** terminals, they might lack the necessary variatio
 
 |    | Light Theme                                                  |  8-bit | 24-bit  | Dark Theme                                                   |  8-bit | 24-bit  |
 |--- | -----                                                        | -------|---------| -----                                                        | -------|---------|
-| 0  | <img src="readme-assets/eeeeee.png" alt="Description" width="50" height="50"> <img src="https://www.colorhexa.com/eeeeee.png" alt="Description" width="50" height="50"> |  255   | #eeeeee |![#1c1c1c](https://place-hold.it/100x40/1c1c1c/000000?text=+) |  234   | #1c1c1c |
+| 0  | <img src="readme-assets/eeeeee.PNG" alt="Description" width="50" height="50"> <img src="https://www.colorhexa.com/eeeeee.png" alt="Description" width="50" height="50"> |  255   | #eeeeee |![#1c1c1c](https://place-hold.it/100x40/1c1c1c/000000?text=+) |  234   | #1c1c1c |
 | 1  |![#af0000](https://place-hold.it/100x40/af0000/000000?text=+) |  124   | #af0000 |![#af005f](https://place-hold.it/100x40/af005f/000000?text=+) |  125   | #af005f |
 | 2  |![#008700](https://place-hold.it/100x40/008700/000000?text=+) |  28    | #008700 |![#5faf00](https://place-hold.it/100x40/5faf00/000000?text=+) |  70    | #5faf00 |
 | 3  |![#5f8700](https://place-hold.it/100x40/5f8700/000000?text=+) |  64    | #5f8700 |![#d7af5f](https://place-hold.it/100x40/d7af5f/000000?text=+) |  179   | #d7af5f |
